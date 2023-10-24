@@ -1,6 +1,6 @@
 ### Junior Engineer who is still coursing the degree.
 
-In this profile I upload all the projects that I've made in the degree.
+In this profile I upload all the projects that I've made in the degree. (You'll find them in repositories of this profile)
 
 ### Also I'll leave a list of all the languages of programming I used:
 - Java
