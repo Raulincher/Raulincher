@@ -2,7 +2,7 @@
 
 In this profile I upload all the projects that I've made in the degree.
 
-### Also I'll leave a list of all the languages of prommaing I used:
+### Also I'll leave a list of all the languages of programming I used:
 - Java
 - C
 - C++
