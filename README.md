@@ -1,4 +1,20 @@
-### Hi there 👋
+### Junior Engineer who is still coursing the degree of engineering.
+
+In this profile I upload all the projects that I've made in the degree.
+
+### Also I'll leave a list of all the languages of prommaing I used:
+- Java
+- C
+- C++
+- C#
+- JavaScript
+- HTML
+- CSS
+- TypeScript
+- Matlab
+- KNX (with ETS and ComfortClick)
+- SQL
+
 
 <!--
 **Raulincher/Raulincher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
